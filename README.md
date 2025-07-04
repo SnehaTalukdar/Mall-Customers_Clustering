@@ -1,6 +1,7 @@
 # Clustering of Mall Customers Dataset
 
--> This project uses K-Means clustering to divide mall patrons into groups according to their gender, spending score, and yearly income. 
+-> This project uses K-Means clustering to divide mall patrons into groups according to their gender, spending score, and yearly income.
+
 -> It makes use of the well-known Mall_Customers dataset and incorporates PCA-based dimensionality reduction, clustering, and data visualization.
 
 
@@ -33,7 +34,9 @@ Source - https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tuto
 ## Techniques:
 
 -> Label Encoding (For Gender part)
+
 -> Principal Component Analysis (PCA) and KMeans Clustering
+
 -> The Silhouette Score is used to evaluate clusters.
 
 
