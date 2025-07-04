@@ -1,0 +1,1 @@
+Silhouette Score for K=5: 0.444
